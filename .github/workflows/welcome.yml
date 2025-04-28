@@ -1,4 +1,4 @@
-name: Welcome New Contributor
+name: Welcome Contributor
 
 on:
   pull_request_target:
